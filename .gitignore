@@ -39,3 +39,6 @@ gradle-app.setting
 .vscode/*
 !.vscode/settings.json
 bin
+
+# Ignore Gradle build output directory
+build
