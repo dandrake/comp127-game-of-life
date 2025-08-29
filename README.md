@@ -19,6 +19,25 @@ The Game of Life is a mathematical “zero-player” game devised by John Conway
 
 For more information on Life, the [Wikipedia article on the topic](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is quite informative, as is [Martin Gardner's original article](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm).
 
+Purpose
+---
+
+This is a getting-started kind of assignment, intended to:
+
+- Remind you of some basic Java programming syntax and how to work with
+  Java source code.
+- Practice with the VS Code development environment, in particular with
+  running and debugging code.
+- Learn about the basics of unit tests, how they work, and why we write
+  them.
+- Get your feet wet doing some fun experiments with modifying and
+  writing new code.
+
+Assessment
+---
+
+This is a take-home assignment and we'll follow the rubric from the
+syllabus for these assignments.
 
 Overview
 ---
@@ -30,6 +49,10 @@ You will have the following tasks:
 - Implement Conway’s rules.
 - Create a new rule set implementing a simple variation on Conway’s rules.
 
+and some hopefully-fun optional tasks related to:
+
+- Altering the behavior of the graphical board.
+- Altering the underlying rules for the Game of Life
 
 Running the tests
 ---
